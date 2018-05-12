@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '40543'
     url: http://www.gutenberg.org/2009/agents/40543
 description: Illustrated by the author.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40309#The-Art-of-AmusingTricks-Curious-Puzzles-and-New-Charades
 gutenberg_issued: '2012-07-23'
 gutenberg_type: Text
 identifiers:
