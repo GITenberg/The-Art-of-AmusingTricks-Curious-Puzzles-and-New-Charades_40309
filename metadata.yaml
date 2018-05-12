@@ -1,0 +1,35 @@
+_repo: The-Art-of-AmusingTricks-Curious-Puzzles-and-New-Charades_40309
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bellew, Frank
+    aliases:
+    - Ex-tramp
+    - Bellew, F. H. Temple (Frank Henry Temple)
+    - Bellew, Frank Henry Temple
+    birthdate: 1828
+    deathdate: 1888
+    gutenberg_agent_id: '40543'
+    url: http://www.gutenberg.org/2009/agents/40543
+description: Illustrated by the author.
+gutenberg_issued: '2012-07-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40309'
+  lccn: 05029301
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Family recreation'
+- !lcc 'GV'
+- !lcsh 'Tricks'
+- !lcsh 'Amusements'
+title: "The Art of Amusing\r\nBeing a Collection of Graceful Arts, Merry Games, Odd\
+  \ Tricks, Curious Puzzles, and New Charades. Together with Suggestions for Private\
+  \ Theatricals, Tableaux, and All Sorts of Parlor and Family Amusements."
+url: http://www.gutenberg.org/ebooks/40309
